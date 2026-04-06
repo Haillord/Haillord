@@ -14,16 +14,6 @@
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://img.shields.io/badge/🤖_ErosLab-FF2244?style=flat-square"/>
-
-Serverless Telegram bot с AI на GitHub Actions
-</td>
-<td width="50%">
-<img src="https://img.shields.io/badge/🎮_PlayStash-9B59FF?style=flat-square"/>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/🤖_ErosLab-FF2244?style=flat-square"/>
 
@@ -35,4 +25,4 @@ Serverless Telegram bot с AI на GitHub Actions
 Flutter app для отслеживания раздач игр с AI ассистентом
 </td>
 </tr>
-</table>
+</table>e>
