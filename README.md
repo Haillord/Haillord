@@ -25,4 +25,10 @@ Serverless Telegram bot с AI на GitHub Actions
 Flutter app для отслеживания раздач игр с AI ассистентом
 </td>
 </tr>
-</table>e>
+</table>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Haillord&style=for-the-badge&color=FF2244&label=PROFILE+VIEWS"/>
+</p>
