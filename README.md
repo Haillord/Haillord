@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=2000&color=FF2244&center=true&vCenter=true&width=700&height=45&duration=40&lines=hey+%F0%9F%92%80;i+build+things+that+probably+shouldn't+exist;no+CS+degree+%E2%80%A2+just+vibes+%26+AI;telegram+bots+%E2%80%A2+flutter+apps+%E2%80%A2+cursed+ideas">
+</p>
 
-<!--
-**Haillord/Haillord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=FF2244"/>
+  <img src="https://img.shields.io/badge/Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=FF2244"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=for-the-badge&logo=github-actions&logoColor=FF2244"/>
+  <img src="https://img.shields.io/badge/Groq_AI-1a1a1a?style=for-the-badge&logoColor=FF2244"/>
+  <img src="https://img.shields.io/badge/vibes-FF2244?style=for-the-badge&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="50%">
+<img src="https://img.shields.io/badge/🤖_ErosLab-FF2244?style=flat-square"/>
+
+Serverless Telegram bot с AI на GitHub Actions
+</td>
+<td width="50%">
+<img src="https://img.shields.io/badge/🎮_PlayStash-9B59FF?style=flat-square"/>
+
+Flutter app для отслеживания раздач игр с AI ассистентом
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Haillord&show_icons=true&theme=dark&hide_border=true&title_color=FF2244&icon_color=FF2244&text_color=ffffff&bg_color=0d0d0d"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Haillord&style=for-the-badge&color=FF2244&label=PROFILE+VIEWS"/>
+</p>
