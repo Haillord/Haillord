@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=FF2244""")/>>
-  <img src="https://img.shields.io/badge/Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=FF2244""")/>>
-  <img src="https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=for-the-badge&logo=github-actions&logoColor=FF2244""")/>>
-  <img src="https://img.shields.io/badge/Groq_AI-1a1a1a?style=for-the-badge&logoColor=FF2244""")/>>
-  <img src="https://img.shields.io/badge/vibes-FF2244?style=for-the-badge&logoColor=white""")/>>
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=FF2244" />
+  <img src="https://img.shields.io/badge/Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=FF2244" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=for-the-badge&logo=github-actions&logoColor=FF2244" />
+  <img src="https://img.shields.io/badge/Groq_AI-1a1a1a?style=for-the-badge&logoColor=FF2244" />
+  <img src="https://img.shields.io/badge/vibes-FF2244?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -17,11 +17,11 @@
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/🤖_ErosLab-FF2244?style=flat-square""")/>><br>
+<img src="https://img.shields.io/badge/🤖_ErosLab-FF2244?style=flat-square" /><br>
 Serverless Telegram bot с AI на GitHub Actions
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/🎮_PlayStash-9B59FF?style=flat-square""")/>><br>
+<img src="https://img.shields.io/badge/🎮_PlayStash-9B59FF?style=flat-square" /><br>
 Flutter app для отслеживания раздач игр с AI ассистентом
 </td>
 </tr>
@@ -32,5 +32,5 @@ Flutter app для отслеживания раздач игр с AI ассис
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Haillord&style=for-the-badge&color=FF2244&label=PROFILE+VIEWS""")/>>
+<img src="https://komarev.com/ghpvc/?username=Haillord&style=for-the-badge&color=FF2244&label=PROFILE+VIEWS" />
 </p>
