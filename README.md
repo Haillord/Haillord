@@ -30,9 +30,5 @@ Flutter app для отслеживания раздач игр с AI ассис
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Haillord&show_icons=true&theme=dark&hide_border=true&title_color=FF2244&icon_color=FF2244&text_color=ffffff&bg_color=0d0d0d"/>
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Haillord&style=for-the-badge&color=FF2244&label=PROFILE+VIEWS"/>
 </p>
